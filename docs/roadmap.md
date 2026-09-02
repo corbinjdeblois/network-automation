@@ -3,9 +3,7 @@
 ## Phase 0 - Foundation
 - [x] Create Git repository
 - [ ] Create documentation
-    - [ ] .gitignore
-    - [ ] architecture.md
-    - [ ] runbooks.md
+    - [x] .gitignore
 - [ ] Configure Python environment
 
 ## Phase 1 - Device Connectivity
