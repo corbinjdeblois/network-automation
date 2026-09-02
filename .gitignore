@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Network Automation Project
+
+# Secrets
+.env
+
+# Generated files
+backups/
+reports/
+
+# Network exports
+*.cfg
+*.backup
+*.bak
+ 
+# VS Code settings
+.vscode/
